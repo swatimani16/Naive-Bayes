@@ -20,7 +20,7 @@ The prediction using 700 points for class 0 and 300 for class 1 is calculated an
  RoC and AUC has been asked to be plotted in the part 1 and part 4 of the question, thus they have been implemented and we have obtained the plot as shown in the report.  
 
  References: 
-Referred the slides used in the lecture by Professor Won Hwa Kim 
+
 https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/ 
 https://github.com/odubno/GaussNaiveBayes/blob/master/gauss_nb.py  
 https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.normal.html  
